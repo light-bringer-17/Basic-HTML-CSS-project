@@ -1,0 +1,43 @@
+
+    body {
+    background-color: #232020;
+
+    }
+    hr {
+      border-style: dotted none none none;
+      border-top-width: 8px;
+      border-color: #ff7315;
+      width: 50px
+
+
+    }
+    h1 {
+    color: #f4f4f4;
+    font-family: "Verdana", sans-serif, verdana;
+    }
+
+    h3 {
+
+    color: #f4f4f4;
+    font-family: "Verdana", sans-serif, verdana;
+    }
+
+    table {
+    color: #f4f4f4;
+    font-family: "Verdana", sans-serif, verdana;
+    }
+    ul {
+    color: #f4f4f4;
+    font-family: "Verdana", sans-serif, verdana;
+    }
+  ol {
+  color: #f4f4f4;
+  font-family: "Verdana", sans-serif, verdana;
+  }
+/****************CLASS SELECTORS******************/
+
+.button:hover {background-color: #ff7315}
+
+.input-box:hover {background-color: #f4f4f4;}
+
+.signup {color: #f4f4f4;}
